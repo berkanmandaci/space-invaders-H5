@@ -1,0 +1,2 @@
+D:\Projeler\Git\space-invaders-H5\space-invaders-H5\obj\Debug\Assembly-CSharp.csproj.AssemblyReference.cache
+D:\Projeler\Git\space-invaders-H5\space-invaders-H5\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
